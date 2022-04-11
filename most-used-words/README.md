@@ -1,4 +1,4 @@
-# most-views-words
+# most-used-words
 
 ## Project setup
 ```
