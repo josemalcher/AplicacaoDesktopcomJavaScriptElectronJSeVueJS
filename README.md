@@ -23,7 +23,18 @@ https://www.cod3r.com.br/
 
 ## <a name="parte2">2 - Projeto Electron</a>
 
-
+- Repositório do Projeto
+- Aviso importante aos usuários de Windows
+- Configuração do Projeto
+- Ajustes Iniciais e Alterando o Título da Janela
+- Interface Gráfica com Vue JS #01
+- Interface Gráfica com Vue JS #02
+- Interface Gráfica com Vue JS #03
+- Utilizando Electron IPC (Inter-Process Communication)
+- Processando Arquivos #01
+- Processando Arquivos #02
+- Processando Arquivos #03
+- Testando a Aplicação e Conclusão
 
 [Voltar ao Índice](#indice)
 
